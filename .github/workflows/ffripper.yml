@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       code:
+       branch name:
         description: Paste Chrome Remote Desktop Code
         required: true
 
